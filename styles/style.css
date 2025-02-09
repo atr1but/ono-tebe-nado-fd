@@ -211,11 +211,10 @@
 }
 
 .text-lots-p {
-    position: relative;
-    height: 400px;
     width: 254px;
     margin: auto;
     position: relative;
+    margin-top: 500px;
 }
 
 .card_text {
