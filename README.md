@@ -1,1 +1,1 @@
-https://github.com/atr1but/ono-tebe-nado
+https://github.com/atr1but/ono-tebe-nado-fd
